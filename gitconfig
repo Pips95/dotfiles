@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = fcolonna95@gmail.com
+	name = Filippo Colonna
